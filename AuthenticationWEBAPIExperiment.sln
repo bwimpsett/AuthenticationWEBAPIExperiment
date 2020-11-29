@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicAuthenticationWEBAPI", "BasicAuthenticationWEBAPI\BasicAuthenticationWEBAPI.csproj", "{DE0D9121-3C50-46DA-9258-197BBECBD304}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoleBasedBasicAuthenticationWEBAPI2", "RoleBasedBasicAuthenticationWEBAPI2\RoleBasedBasicAuthenticationWEBAPI2.csproj", "{B94F6692-1EF0-4441-A243-98E30555C57A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE0D9121-3C50-46DA-9258-197BBECBD304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE0D9121-3C50-46DA-9258-197BBECBD304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE0D9121-3C50-46DA-9258-197BBECBD304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE0D9121-3C50-46DA-9258-197BBECBD304}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B94F6692-1EF0-4441-A243-98E30555C57A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B94F6692-1EF0-4441-A243-98E30555C57A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B94F6692-1EF0-4441-A243-98E30555C57A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B94F6692-1EF0-4441-A243-98E30555C57A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B15D8A4-DF2A-4513-9AC9-17EB0B0B3A1E}
+	EndGlobalSection
+EndGlobal
